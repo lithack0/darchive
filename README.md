@@ -49,7 +49,7 @@ chmod +x install-archive-tools.sh
 ./install-archive-tools.sh
 python3 darchive.py
 ```
-## By installing .deb package.
+## By installing .deb package
 
 ```bash
 wget https://github.com/lithack0/darchive/blob/main/darchive.deb
